@@ -1,6 +1,6 @@
 {
   "name": "@elephant-healthcare/crud-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A microservice boilerplate",
   "main": "lib/index.js",
   "scripts": {
@@ -64,6 +64,7 @@
   },
   "dependencies": {
     "@hapi/hapi": "17.9.0",
+    "babel-runtime": "^6.26.0",
     "convict": "4.3.1",
     "dotenv": "6.0.0",
     "good": "8.1.1",
